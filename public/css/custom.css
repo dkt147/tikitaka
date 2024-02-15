@@ -1,0 +1,18 @@
+.voyager.pricing .btn-add-new{display:none;}
+.voyager.pricing .btn.delete{display:none;}
+.voyager.pricing #bulk_delete_btn{display:none;}
+.voyager.pricing .toggle .toggle-group{display: none;}
+.voyager.pricing .toggle.btn{display: none;}
+#pay-type{display: none;}
+.site-footer-right{display: none;}
+
+body.voyager.pricing input[type='checkbox']{display:none;}
+label[for="default_role"]{display:NONE;}
+label[for="default_role"] ~ .select2 {display:none;}
+label[for="additional_roles"]{display:NONE;}
+label[for="additional_roles"] ~ .select2 {display:none;}
+label[for="locale"]{display:NONE;}
+label[for="locale"] ~ .select2 {display:none;}
+
+body.voyager.plans a.delete{display:none;}
+body.voyager.plans #bulk_delete_btn{display:none;}
